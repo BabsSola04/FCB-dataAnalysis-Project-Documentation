@@ -6,4 +6,4 @@ This Data Analysis Project aims to generate insights into the sales performance 
 ### Tools Used
 - Ms Excel [download here](https://microsoft.com)
 - Python
-- Power BI
+- **Power BI
