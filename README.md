@@ -15,3 +15,4 @@ Google Query Sheet
 =QUERY(A2:E6, "SELECT A where G=true", 1)
 
 ```
+![](download.jpg)
