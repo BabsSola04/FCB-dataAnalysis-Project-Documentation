@@ -7,3 +7,11 @@ This Data Analysis Project aims to generate **insights** into the **sales perfor
 - Ms Excel [download here](https://microsoft.com)
 - Python
 - Power BI
+
+
+```
+Google Query Sheet
+
+=QUERY(A2:E6, "SELECT A where G=true", 1)
+
+```
